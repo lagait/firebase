@@ -61,3 +61,7 @@ Using that file will check for these DBs: ```https://airbnb.firebaseio.com/.json
 This script is heavily based on the work by the Mobile Threat Team from [appthority](https://www.appthority.com/mobile-threat-center/blog/appthority-discovers-thousands-of-apps-with-firebase-vulnerability-exposing-sensitive-data/). All credits for the reasearch belong to them.
 
 To download the domains from the Alexa's 1 million top domains file, the [script](https://gist.github.com/evilpacket/3628941) by @evilpacket is used.
+
+
+
+ru норм пояснение https://spy-soft.net/searching-open-databases/
